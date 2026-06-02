@@ -1,4 +1,4 @@
-# Elite Coders Open Source Hackathon 2026 — Submissions
+# Elite Coders Open Source Hackathon 2026 Submissions
 
 Welcome to the official submission repository for **Elite Coders Open Source Hackathon 2026**.
 
